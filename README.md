@@ -1,3 +1,3 @@
 # Hi, I'm MΛX 👋
 
-<img src="./header.png" alt="banner that says Javascript developer, UI designer & more.">
+<img src="https://github.com/Mw3y/Mw3y/raw/master/header.png" alt="banner that says Javascript developer, UI designer & more.">
