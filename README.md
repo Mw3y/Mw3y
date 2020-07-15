@@ -9,3 +9,5 @@ I'm a 15 years old student in France.:croissant: I like a lot new technologies, 
 
 ## Find me around the web 🌎
 - Behance :paintbrush:: <a href="https://behance.net/mw3y" target="_blank">behance.net/mw3y</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mw3y&show_icons=true&title_color=2c98e5&icon_color=2c98e5&text_color=9f9f9f&bg_color=ededed">
