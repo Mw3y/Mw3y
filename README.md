@@ -5,7 +5,7 @@ I'm a 18 years old student in France.:croissant: I like a lot new technologies, 
 
 ## My Current Projects :clipboard:
 • **Draftbot** :crown: - A javascript Discord bot with an unique and constantly developing RPG system. (Available at <a href="https://github.com/DraftBot-A-Discord-Adventure" target="_blank">github.com/DraftBot-A-Discord-Adventure</a>)<br>
-• **Suivix** :bookmark_tabs: - A web interface using javascript to take attendance on Discord. (Available at <a href="https://suivix.xyz" target="_blank">suivix.xyz</a>)
+• **Suivix** :bookmark_tabs: - A web interface using javascript to take attendance and create amazing polls on Discord. (Available at <a href="https://suivix.xyz" target="_blank">suivix.xyz</a>)
 
 ## Find me around the web 🌎
 - Behance :paintbrush:: <a href="https://behance.net/mw3y" target="_blank">behance.net/mw3y</a>
