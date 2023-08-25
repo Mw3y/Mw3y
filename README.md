@@ -1,7 +1,7 @@
 # Hi there, I'm MΛX 👋
 
 <img src="https://github.com/Mw3y/Mw3y/raw/master/header.png" alt="banner that says Javascript developer, UI designer & more.">
-I'm a 18 years old student in France.:croissant: I love new technologies, so I try to learn as much as I can.:computer: As of now, I mainly  learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Rust. :brain:
+I'm an 18-year-old student in France.:croissant: I love new technologies, so I try to learn as much as I can.:computer: As of now, I mainly  learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Rust. :brain:
 
 ## My Current Projects :clipboard:
 • **Draftbot** :crown: - A javascript Discord bot with a unique and constantly developing RPG system. (Available at <a href="https://github.com/DraftBot-A-Discord-Adventure" target="_blank">github.com/DraftBot-A-Discord-Adventure</a>)<br>
