@@ -12,7 +12,7 @@ I try to be as versatile as possible, which is why I'm also learning UX and UI �
 - **TFJM-2023** ✍🏻: Two different approaches to modeling a complex mathematical problem at the "Tournois Français des Jeunes Mathématiciens et Mathématiciennes" using a web interface to make mathematical conjectures.<br>
 (Available at <a href="https://mw3y.github.io/TFJM-2023" target="_blank">mw3y.github.io/TFJM-2023</a>)
 - **PokéMAN** 👾: A Pokémon game where you're a first semester student in Computer Sciences at EPFL and you have to challenge the league of professors and beat the master (our programming teacher) to pass the semester and avoid the MàN (catch-up).<br>
-(Currently in private access)
+(Available at <a href="https://github.com/Mw3y/PokeMAN" target="_blank">github.com/Mw3y/PokeMAN</a>)
 - **ChaCuN** 🍖: An electronic version of the board game 'Chasseurs et Cueilleurs', derived from the famous 'Carcassonne'. It has multiplayer support ;)<br>
 (Currently in private access)
 
