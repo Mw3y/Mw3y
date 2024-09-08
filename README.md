@@ -16,6 +16,9 @@ I try to be as versatile as possible, which is why I'm also learning UX and UI �
 - **ChaCuN** 🍖: An electronic version of the board game 'Chasseurs et Cueilleurs', derived from the famous 'Carcassonne'. It has multiplayer support ;)<br>
   - Singleplayer game: <a href="https://github.com/Mw3y/ChaCuN" target="_blank">github.com/Mw3y/ChaCuN</a>
   - Multiplayer server: <a href="https://github.com/Mw3y/cs108-chacun-ws-server" target="_blank">github.com/Mw3y/cs108-chacun-ws-server</a>
+- **S4S Programmation Labs** 👨‍💻: A website to help new EPFL students learn programming through intuitive exercises in 3 different code languages, without installing anything on their computer.
+(Available at <a href="https://github.com/students-4-students/prog-labs-website" target="_blank">github.com/students-4-students/prog-labs-website</a>)
+
 
 ## Find me around the web 🌎
 - Behance 🖌️: <a href="https://behance.net/mw3y" target="_blank">behance.net/mw3y</a>
