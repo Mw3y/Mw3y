@@ -1,4 +1,4 @@
-# Hi there, I'm MΛX 👋
+# Hi there, I'm Mαx 👋
 
 I'm an 19-year-old French student 🥐. I love new technologies, so I try to learn as much as I can 💻. As of now, I mainly learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Assembly, Rust and C++ 🧠.
 I try to be as versatile as possible, which is why I'm also learning UX and UI 🪄.
