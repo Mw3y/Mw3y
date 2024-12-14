@@ -25,7 +25,7 @@ I try to be as versatile as possible, which is why I'm also learning UX and UI �
 - Behance 🖌️: <a href="https://behance.net/mw3y" target="_blank">behance.net/mw3y</a>
 - Discord 💬: @max0253
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mw3y&show_icons=true&title_color=2c98e5&icon_color=2c98e5&bg_color=ededed&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mw3y&show_icons=true&title_color=2c98e5&icon_color=2c98e5&bg_color=ededed&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mw3y&show_icons=true&title_color=2c98e5&icon_color=2c98e5&bg_color=ededed&include_all_commits=false&count_private=true)<br/>
