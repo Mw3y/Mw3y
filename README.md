@@ -3,7 +3,7 @@
 I'm an 19-year-old French student 🥐. I love new technologies, so I try to learn as much as I can 💻. As of now, I mainly learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Assembly, Rust and C++ 🧠.
 I try to be as versatile as possible, which is why I'm also learning UX and UI 🪄.
 
-<img style="width: 100%" src="https://64.media.tumblr.com/7e646d701b09619cbd7847b65ea580f0/807f9e5a5e0ce538-d1/s1280x1920/163e290a79a60d0a9230eb2e76c4c354d300dbfa.gifv" alt="profile banner">
+<img style="width: 100%" src="./tumblr_7e646d701b09619cbd7847b65ea580f0_163e290a_1280.webp" alt="profile banner">
 
 ## My Current Projects :clipboard:
 - **Draftbot** 👑: A javascript Discord bot with a unique and constantly developing RPG system.<br>
