@@ -1,6 +1,6 @@
 # Hi there, I'm Mαx 👋
 
-I'm an 19-year-old French student 🥐. I love new technologies, so I try to learn as much as I can 💻. As of now, I mainly learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Assembly, Rust and C++ 🧠.
+I'm a 19-year-old French student 🥐. I love new technologies, so I try to learn as much as I can 💻. As of now, I mainly learned Java, TypeScript, Python, HTML, CSS and SQL but recently took a liking to Assembly, Rust and C++ 🧠.
 I try to be as versatile as possible, which is why I'm also learning UX and UI 🪄.
 
 <img style="width: 100%" src="./tumblr_7e646d701b09619cbd7847b65ea580f0_163e290a_1280.webp" alt="profile banner">
