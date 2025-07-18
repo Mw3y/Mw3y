@@ -5,9 +5,10 @@ I try to be as versatile as possible, which is why I'm also learning UX and UI �
 
 <img style="width: 100%" src="./tumblr_7e646d701b09619cbd7847b65ea580f0_163e290a_1280.webp" alt="profile banner">
 
-## My Current Projects :clipboard:
-- **Draftbot** 👑: A javascript Discord bot with a unique and constantly developing RPG system.<br>
-(Available at <a href="https://github.com/DraftBot-A-Discord-Adventure" target="_blank">github.com/DraftBot-A-Discord-Adventure</a>)<br>
+## My Projects :clipboard:
+
+- **Crownicles** 👑 (prev. DraftBot-A-Discord-Adventure): A javascript Discord bot with a unique and constantly developing RPG system.<br>
+(Available at <a href="https://github.com/Crownicles" target="_blank">github.com/Crownicles</a>)<br>
 - **Suivix** 📑: A Discord bot with a web interface to take attendance and create amazing polls.<br>
 (Available at <a href="https://suivix.xyz" target="_blank">suivix.xyz</a>)
 - **TFJM-2023** ✍🏻: Two different approaches to modeling a complex mathematical problem at the "Tournois Français des Jeunes Mathématiciens et Mathématiciennes" using a web interface to make mathematical conjectures.<br>
